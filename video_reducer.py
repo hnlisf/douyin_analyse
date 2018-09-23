@@ -13,7 +13,8 @@ def rating_change(video_str):
     return rating
 
 for line in sys.stdin:
-    info_list.append(line)
+    line = line.split("\t")
+    info_list.append(line[1])
 
 info_list.sort(key=rating_change,reverse=True)
 
