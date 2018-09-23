@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/douyin_analyse.iml" filepath="$PROJECT_DIR$/.idea/douyin_analyse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../douyin_data/.idea/douyin_data.iml" filepath="$PROJECT_DIR$/../douyin_data/.idea/douyin_data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../exportdb/.idea/exportdb.iml" filepath="$PROJECT_DIR$/../exportdb/.idea/exportdb.iml" />
+    </modules>
+  </component>
+</project>

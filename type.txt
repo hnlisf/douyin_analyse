@@ -1,0 +1,9 @@
+uid: 72410352656 <class 'str'>
+aweme_id: 6547214768552283396 <class 'str'>
+title: 抖音-原创音乐短视频社区 <class 'str'>
+play_url_list: ['https://aweme.snssdk.com/aweme/v1/playwm/?video_id=b46ddc02d8ed44acadd7b24f7c2c5a13&line=0', 'https://aweme.snssdk.com/aweme/v1/playwm/?video_id=b46ddc02d8ed44acadd7b24f7c2c5a13&line=1'] <class 'list'>
+cover_url_list: ['https://p1.pstatp.com/large/7ce600105d62169e5a94.jpg', 'https://pb3.pstatp.com/large/7ce600105d62169e5a94.jpg', 'https://pb3.pstatp.com/large/7ce600105d62169e5a94.jpg'] <class 'list'>
+digg_count: 15 <class 'int'>
+forward_count: 0 <class 'int'>
+create_time: 2018-09-20 14:19:40 <class 'str'>
+rating: 9.0 <class 'float'>
