@@ -192,7 +192,6 @@ class MRVideoAnalyser(MRJob):
     def steps(self):
         return [
             MRStep(mapper=self.mapper,reducer=self.reducer_sort),
-            # MRStep(reducer=self.reducer_top)
         ]
 
 if __name__ == '__main__':

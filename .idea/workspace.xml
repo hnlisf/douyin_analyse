@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ebe953f-2c19-4daf-96ca-433448b3c8ea" name="Default" comment="" />
+    <list default="true" id="7ebe953f-2c19-4daf-96ca-433448b3c8ea" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/douyin_video_test.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/loggers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_analyse.py" beforeDir="false" afterPath="$PROJECT_DIR$/user_analyse.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/video_analyse.py" beforeDir="false" afterPath="$PROJECT_DIR$/video_analyse.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/video_mapper.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/video_parse.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/video_reducer.py" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,38 +28,27 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="video_parse.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/video_parse.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-150">
-              <caret column="22" selection-start-column="22" selection-end-column="22" />
-              <folding>
-                <element signature="e#73#84#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="user_analyse.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="user_analyse.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/user_analyse.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="22" selection-start-column="22" selection-end-column="22" />
+              <caret selection-end-column="22" />
               <folding>
-                <element signature="e#97#108#0" expanded="true" />
+                <element signature="e#101#112#0" expanded="true" />
+                <element signature="e#246#468#0" />
+                <element signature="e#497#711#0" />
+                <element signature="e#738#1585#0" />
+                <element signature="e#255#4404#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tool.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tool.py">
+      <file leaf-file-name="douyin_video_mini.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../douyin_data/douyin_video_mini.json">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="22" selection-start-column="22" selection-end-column="22" />
-              <folding>
-                <element signature="e#43#54#0" expanded="true" />
-              </folding>
+              <caret selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -56,41 +56,12 @@
       <file leaf-file-name="video_analyse.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/video_analyse.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="21" column="35" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="35" />
+            <state relative-caret-position="620">
+              <caret line="181" column="34" selection-start-line="165" selection-end-line="197" selection-end-column="25" />
               <folding>
-                <element signature="e#68#79#0" expanded="true" />
+                <element signature="e#72#83#0" expanded="true" />
+                <element signature="e#177#4326#0" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="video_mapper.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/video_mapper.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="22" selection-start-column="22" selection-end-column="22" />
-              <folding>
-                <element signature="e#44#54#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="video_reducer.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/video_reducer.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="22" selection-start-column="22" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="loggers.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/loggers.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="725">
-              <caret line="29" column="40" lean-forward="true" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -114,6 +85,9 @@
       <find>uid</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -122,13 +96,13 @@
         <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/../exportdb/write_file.py" />
         <option value="$PROJECT_DIR$/mapper.py" />
-        <option value="$PROJECT_DIR$/video_analyse.py" />
-        <option value="$PROJECT_DIR$/user_analyse.py" />
         <option value="$PROJECT_DIR$/video_parse.py" />
         <option value="$PROJECT_DIR$/tool.py" />
         <option value="$PROJECT_DIR$/video_mapper.py" />
-        <option value="$PROJECT_DIR$/video_reducer.py" />
         <option value="$PROJECT_DIR$/loggers.py" />
+        <option value="$PROJECT_DIR$/video_reducer.py" />
+        <option value="$PROJECT_DIR$/video_analyse.py" />
+        <option value="$PROJECT_DIR$/user_analyse.py" />
       </list>
     </option>
   </component>
@@ -147,6 +121,7 @@
     <option name="width" value="1396" />
     <option name="height" value="920" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -158,6 +133,14 @@
             <path>
               <item name="douyin_analyse" type="b2602c69:ProjectViewProjectNode" />
               <item name="douyin_analyse" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="douyin_analyse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="douyin_data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="douyin_analyse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exportdb" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -296,17 +279,17 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.31126598" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16709511" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13859275" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -367,7 +350,11 @@
         <state relative-caret-position="800">
           <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
           <folding>
-            <element signature="e#97#108#0" expanded="true" />
+            <element signature="e#101#112#0" expanded="true" />
+            <element signature="e#246#468#0" />
+            <element signature="e#497#711#0" />
+            <element signature="e#738#1585#0" />
+            <element signature="e#255#4404#0" />
           </folding>
         </state>
       </provider>
@@ -378,6 +365,9 @@
           <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
           <folding>
             <element signature="e#43#54#0" expanded="true" />
+            <element signature="e#113#960#0" />
+            <element signature="e#993#1215#0" />
+            <element signature="e#1244#1458#0" />
           </folding>
         </state>
       </provider>
@@ -394,7 +384,8 @@
         <state relative-caret-position="1000">
           <caret line="43" column="16" lean-forward="true" selection-start-line="43" selection-start-column="16" selection-end-line="43" selection-end-column="16" />
           <folding>
-            <element signature="e#68#79#0" expanded="true" />
+            <element signature="e#72#83#0" expanded="true" />
+            <element signature="e#177#4326#0" />
           </folding>
         </state>
       </provider>
@@ -439,13 +430,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../douyin_data/douyin_video_mini.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" column="1391" selection-start-line="1" selection-start-column="1388" selection-end-line="1" selection-end-column="1391" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../douyin_data/douyin_video_2000.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-75" />
@@ -470,47 +454,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/user_analyse.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="22" selection-start-column="22" selection-end-column="22" />
-          <folding>
-            <element signature="e#97#108#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/type.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tool.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="22" selection-start-column="22" selection-end-column="22" />
-          <folding>
-            <element signature="e#43#54#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/video_mapper.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="22" selection-start-column="22" selection-end-column="22" />
-          <folding>
-            <element signature="e#44#54#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/video_reducer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="22" selection-start-column="22" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -524,30 +471,82 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/video_analyse.py">
+    <entry file="file://$PROJECT_DIR$/video_reducer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="21" column="35" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="35" />
-          <folding>
-            <element signature="e#68#79#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="350">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/video_parse.py">
+    <entry file="file://$PROJECT_DIR$/video_mapper.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-150">
+        <state>
           <caret column="22" selection-start-column="22" selection-end-column="22" />
           <folding>
-            <element signature="e#73#84#0" expanded="true" />
+            <element signature="e#44#54#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/loggers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="725">
-          <caret line="29" column="40" lean-forward="true" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
+        <state relative-caret-position="175">
+          <caret line="7" column="30" lean-forward="true" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" selection-start-line="5" selection-end-line="28" selection-end-column="87" />
+          <folding>
+            <element signature="e#43#54#0" expanded="true" />
+            <element signature="e#113#960#0" />
+            <element signature="e#993#1215#0" />
+            <element signature="e#1244#1458#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/video_parse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="157" column="13" lean-forward="true" selection-start-line="6" selection-end-line="161" selection-end-column="21" />
+          <folding>
+            <element signature="e#73#84#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../douyin_data/douyin_video_mini.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/video_analyse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="620">
+          <caret line="181" column="34" selection-start-line="165" selection-end-line="197" selection-end-column="25" />
+          <folding>
+            <element signature="e#72#83#0" expanded="true" />
+            <element signature="e#177#4326#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user_analyse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="22" />
+          <folding>
+            <element signature="e#101#112#0" expanded="true" />
+            <element signature="e#246#468#0" />
+            <element signature="e#497#711#0" />
+            <element signature="e#738#1585#0" />
+            <element signature="e#255#4404#0" />
+          </folding>
         </state>
       </provider>
     </entry>

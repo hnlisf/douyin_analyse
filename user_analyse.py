@@ -23,7 +23,6 @@ def var(lst,avg):
         var2 = (math.sqrt(var1/(len(lst)-1)*1.0))
     var2 = round(var2,2)
     return var2
-
 # 求期望的函数
 def exp(lst):
     ex = 0
@@ -35,7 +34,7 @@ def exp(lst):
         ex += i*(float(values_counts[i]/count))
     ex = round(ex,2)
     return ex
-
+# 综合分析函数
 def analyse(values):
     total_digg = 0
     total_forward = 0
